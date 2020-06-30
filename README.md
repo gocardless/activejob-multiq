@@ -1,3 +1,5 @@
+**This project is not actively maintained by GoCardless, use at your own risk!**
+
 # ActiveJob::Multiq
 
 Use different queue adapters for different jobs.
